@@ -1,4 +1,4 @@
-# Truth Discoverty Datasets
+# Truth Discovery Datasets
 
 The datasets in this repository were created to assess truth discovery solutions using data which mimics personal records, since this type of information is not publicly available due to privacy concerns. Therefore, there are **two datasets** in this repository, each with **3 variants**: **3 sources**, **5 sources**, and **10 sources**.
 
