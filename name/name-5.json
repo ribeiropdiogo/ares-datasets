@@ -1,0 +1,31 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Luis Lima"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Ronaldo Luís Nazário de Lima"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Ronaldo Nazário"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Ronaldo Nazario de Lima"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Luis Lima"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

@@ -1,0 +1,143 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Luis Lima"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Ronaldo Luís Nazário de Lima"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Ronaldo Nazário"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Ronaldo Nazario de Lima"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Luis Lima"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Ricardo Lima"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Ronaldo Luís Nazário Lima"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Ricardo Lima"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Ronaldo Nazário"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Ricardo Reis"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 50
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 48
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 46
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": 49
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": 38
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": 48
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": 46
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": 47
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": 38
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Brazil"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Brazil"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source4",
+                    "fact": "Portugal"
+                },
+                {
+                    "sourceId": "source5",
+                    "fact": "Spain"
+                },
+                {
+                    "sourceId": "source6",
+                    "fact": "Spain"
+                },
+                {
+                    "sourceId": "source7",
+                    "fact": "Brazil"
+                },
+                {
+                    "sourceId": "source8",
+                    "fact": "Argentina"
+                },
+                {
+                    "sourceId": "source9",
+                    "fact": "Saudi Arabia"
+                },
+                {
+                    "sourceId": "source10",
+                    "fact": "Argentina"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}

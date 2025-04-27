@@ -1,0 +1,59 @@
+{
+    "objects": [
+        {
+            "name": "name",
+            "datatype": "string",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Luis Lima"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Ronaldo Luís Nazário de Lima"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Ronaldo Nazário"
+                }
+            ]
+        },
+        {
+            "name": "age",
+            "datatype": "continuous",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": 50
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": 48
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": 46
+                }
+            ]
+        },
+        {
+            "name": "nationality",
+            "datatype": "categorical",
+            "claims": [
+                {
+                    "sourceId": "source1",
+                    "fact": "Brazil"
+                },
+                {
+                    "sourceId": "source2",
+                    "fact": "Brazil"
+                },
+                {
+                    "sourceId": "source3",
+                    "fact": "Argentina"
+                }
+            ]
+        }
+    ],
+    "sources": []
+}
